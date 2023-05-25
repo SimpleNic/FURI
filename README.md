@@ -5,15 +5,15 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 
 <p align="center"><b>Original Pop Music Dataset</b></p>
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20174856.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20174856.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175005.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175005.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175058.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175058.png?raw=true">
 </p>
 
 <p align="center">
@@ -33,9 +33,9 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175629.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175629.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175644.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175644.png?raw=true">
 </p>
