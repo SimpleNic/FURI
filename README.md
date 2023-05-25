@@ -5,6 +5,7 @@
 
 <p>This project aims to predict the public’s opinion on any given pop music using a machine learning model and the music’s audio features. While other studies have been shown to predict public ratings of pop music, those studies only used the metadata, such as the music’s artist and album. By using audio features instead of only metadata to predict public opinions on music, this project will help musical artists without much previous musical data to understand how their pop music will be received and allow them to improve their music before they publish it.</p>
 
+<p>If you want to try out the code for yourself, you must download ffmpeg along with the other imported modules to convert the mp3 files to wav files. You must also get your own Spotify client ID and secret to use the Spotify API. The code will print out instructions on the first two runs in order to get the data all setup.</p>
 
 ### Data of the tracks
 
