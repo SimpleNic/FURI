@@ -5,6 +5,6 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 
 
 <p align="center">
-  <img src="./images/OriginalPopSet.png?raw=true" width="350" title="hover text">
+  <img src="./images/OriginalPopSet.png?raw=true" width="350" title="wad text">
 </p>
 
