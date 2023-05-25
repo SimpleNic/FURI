@@ -6,6 +6,6 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 
 <p align="center">
   <img src="https://github.com/SimpleNic/FURI/blob/main/images/OriginalPopSet.png?raw=true" width="350" title="hover text">
-  <img src="https://github.com/SimpleNic/FURI/blob/main/images/OriginalPopSet.png?raw=true" width="350" alt="accessibility text">
+  <img src="./images/OriginalPopSet.png?raw=true" width="350" alt="accessibility text">
 </p>
 
