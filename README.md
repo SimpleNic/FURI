@@ -17,19 +17,19 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175232.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175232.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175455.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175455.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175548.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175548.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="./images/Screenshot%202023-05-24%20175603.png?raw=true" width="300">
+  <img src="./images/Screenshot%202023-05-24%20175603.png?raw=true">
 </p>
 
 <p align="center">
