@@ -5,6 +5,7 @@ This is a project for the Fulton Undergraduate Research Initiative at Arizona St
 
 
 <p align="center">
-  <img src="./images/OriginalPopSet.png?raw=true" width="350" title="wad text">
+  <b>Original Pop Music Dataset</b>
+  <img src="./images/OriginalPopSet.png?raw=true" width="350">
 </p>
 
